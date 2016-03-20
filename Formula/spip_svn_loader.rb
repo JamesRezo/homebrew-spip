@@ -1,9 +1,9 @@
 class SpipSvnLoader < Formula
   desc "Installer et mettre à jour SPIP avec SVN"
   homepage "https://github.com/JamesRezo/spip_svn_loader"
-  url "https://github.com/JamesRezo/spip_svn_loader/archive/1.0.0-beta3.tar.gz"
-  version "1.0.0-beta3"
-  sha256 "061ff3d163b0444e4c651a7cefed7422722f6bf5730377b14263d37727f571fc"
+  url "https://github.com/JamesRezo/spip_svn_loader/archive/1.0.0-beta4.tar.gz"
+  version "1.0.0-beta4"
+  sha256 "89368d4f0e71d7c14f181068f6f7116d9a7fec3a2d459e77850d1eff9955b9b9"
   head "https://github.com/JamesRezo/spip_svn_loader.git"
 
   depends_on "subversion"
